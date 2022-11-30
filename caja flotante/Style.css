@@ -1,0 +1,38 @@
+body {
+    background-color: #eee;
+}
+
+.caja {
+    background-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    border-radius: 2px;
+    border-top: solid 0px;
+}
+.footer {
+    background-color: #fff;
+    padding: 10px;
+    border-top: solid 1px #eee;
+}
+.header {
+    background-color: #fff;
+    padding: 10px;
+    border-bottom: solid 1px #eee;
+
+}
+.contenido {
+    padding: 10px;
+}
+.primario {
+    background-color: rgb(104, 161, 248);
+    border: 0px;
+    padding: 5px;
+    color: #fff;
+}
+.secundario {
+    background-color: rgb(151, 151, 150);
+    border: 0px;
+    padding: 5px;
+    color: #fff;
+}
