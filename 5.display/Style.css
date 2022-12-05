@@ -1,0 +1,39 @@
+body {
+    background-color: #eee;
+}
+
+table {
+    background-color: bisque;
+    width: 100%;
+    border-collapse: collapse;
+    /*border: 1px solid #000;*/
+ }
+
+ tr:nth-child(even) {
+    background-color: aqua;
+ }
+
+ td {
+    border: 1px solid #ddd;
+    padding: 8px;
+ }
+
+ .th {
+    background-color: rgb(33, 250, 26);
+    color: white;
+    text-align: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+ }
+
+/*.tr, th {
+    background-color: rgb(177, 243, 116);
+    border: solid 1px black;
+}
+.th, td {
+    background-color: rgb(178, 215, 236);
+    border: solid 1px black;
+}*/
+
