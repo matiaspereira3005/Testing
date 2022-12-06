@@ -1,0 +1,36 @@
+body {
+    background-color: #eee;
+}
+/*Display*/
+#invisible {
+    display: none;
+}
+ /*max width and position*/
+/*p {
+    max-width: 350px;
+    background-color: aqua;
+    margin: auto;
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 15px;
+    bottom: 15px;
+}*/
+
+/*OverFlow*/
+#over {
+    width: 150px;
+    height: 150px;
+    overflow: auto;
+    /*overflow-x: ;
+      overflow -y: ;*/
+}
+
+/*Float*/
+img {
+    float: right;
+}
+
+img:hover {
+    opacity: 50%;
+}
