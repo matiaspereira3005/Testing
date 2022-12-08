@@ -1,0 +1,21 @@
+body {
+    background-color: #eee;
+}
+
+.fondo {
+    /*
+    height: 400px;
+    background: green url('http://placekitten.com/200/300') no-repeat left top fixed ;
+    background-size: cover;
+    mismo orden en una sola linea
+    background-color: rgb(40, 231, 40) ;
+    background-image: url('http://placekitten.com/200/300');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: cover;
+    opacity: 0.7;
+    */
+    /*gradientes*/
+    background-image: repeating-linear-gradient(0deg, rgba(255,0,0,0.2),violet 20%);
+}
