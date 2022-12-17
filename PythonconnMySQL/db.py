@@ -3,7 +3,9 @@ import mysql.connector
 midb = mysql.connector.connect(
     host='localhost',
     user='Morpheus',
-    password='Theflash*3022',
+    #pc ware password='Theflash*2022' 
+    #note    password='Admin*2022'
+    password='Admin*2022',
     database='prueba'
 )
 
