@@ -8,5 +8,4 @@ time_struct = time.localtime(cur_time)
 print(time_struct)
 
 print(time.asctime(time_struct))
-
 print("Good Night")
